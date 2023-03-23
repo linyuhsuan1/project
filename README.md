@@ -1,5 +1,5 @@
 
-# prject
+# project
 
 ```
 |-src
